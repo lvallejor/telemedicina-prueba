@@ -1,7 +1,16 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
+import axios from "axios";
 
 const ListaBusqueda = () => {
-  return <h1>Desde lista busqueda</h1>;
+  useEffect(() => {
+    console.log("object");
+  }, []);
+
+  return (
+    <div>
+      <h1>Medicamentos</h1>
+    </div>
+  );
 };
 
 export default ListaBusqueda;

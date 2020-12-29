@@ -13,7 +13,7 @@ const FarmaciasNoticias = () => {
         </div>
         <div className="col-md-6">
           <div className="card">
-            <div classNamelass="card-body">
+            <div className="card-body">
               <p className="card-text">Noticias.</p>
             </div>
           </div>
