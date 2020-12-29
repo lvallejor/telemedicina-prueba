@@ -8,7 +8,7 @@ const Header = () => {
           <input
             className="mx-3"
             type="text"
-            class="form-control"
+            className="form-control"
             placeholder="Buscar un medicamento"
             aria-label="Username"
             aria-describedby="basic-addon1"
